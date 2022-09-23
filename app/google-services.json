@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883474571429",
+    "project_id": "tela-login-31dbf",
+    "storage_bucket": "tela-login-31dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883474571429:android:95a544a151ba54844e6d4c",
+        "android_client_info": {
+          "package_name": "com.example.telalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883474571429-eh9aefa4hh5iusa5vprmfp2du1ddkqfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8lirVR0qjruhZ1k0E523FDzHRSEX_Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883474571429-eh9aefa4hh5iusa5vprmfp2du1ddkqfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
