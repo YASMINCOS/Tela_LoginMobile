@@ -29,11 +29,6 @@ public class FormLogin extends AppCompatActivity {
     private ProgressBar progressBar;
     String[] mensagens={"Preencha todos os campos","Login realizado com sucesso!"};
 
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
